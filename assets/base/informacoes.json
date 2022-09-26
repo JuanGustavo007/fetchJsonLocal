@@ -1,0 +1,38 @@
+[
+  {
+    "nome": "Juan",
+    "idade": 24,
+    "profissao": "Desempregado",
+    "endereco": "Rua pedro ravanhani"
+  },
+  {
+    "nome": "Kelly",
+    "idade": 21,
+    "profissao": "estágiaria",
+    "endereco": "Varzea"
+  },
+  {
+    "nome": "Cleoni",
+    "idade": 47,
+    "profissao": "Doméstica",
+    "endereco": "Rua pedro ravanhani"
+  },
+  {
+    "nome": "Jair",
+    "idade": 50,
+    "profissao": "Laminador",
+    "endereco": "Rua pedro ravanhani"
+  },
+  {
+    "nome": "Sidnei",
+    "idade": 50,
+    "profissao": "Mecanico",
+    "endereco": "Varzea"
+  },
+  {
+    "nome": "Sueli",
+    "idade": 47,
+    "profissao": "Doméstica",
+    "endereco": "Varzea"
+  }
+]
